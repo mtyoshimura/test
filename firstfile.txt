@@ -1,2 +1,2 @@
 new file 1 local edit
-first file edited
+local edit
